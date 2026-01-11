@@ -71,6 +71,8 @@ https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&log
 https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white
 
 📸 Dashboard Preview
-https://Screenshot%25202026-01-11%2520161550.png
 
-Modern, clean interface with real-time metrics and route planning tools
+<img width="1919" height="970" alt="Image" src="https://github.com/user-attachments/assets/82efa25d-9e9b-48f8-815b-6bad04eb3cb8" />
+
+<img width="1916" height="975" alt="Image" src="https://github.com/user-attachments/assets/93c34ef9-26f4-4003-8166-fab34b584524" />
+
