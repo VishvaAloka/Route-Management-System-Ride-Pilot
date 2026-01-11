@@ -1,0 +1,22 @@
+{
+  "crons": [
+    {
+      "path": "/api/cron/reset-monthly-mileage",
+      "schedule": "1 0 1 * *"
+    }
+  ],
+  "functions": {
+    "app/api/cron/reset-monthly-mileage/route.ts": {
+      "maxDuration": 10
+    },
+    "app/api/rides/route.ts": {
+      "maxDuration": 30
+    },
+    "app/api/rides/[id]/complete/route.ts": {
+      "maxDuration": 10
+    },
+    "app/api/rides/daily-rides/route.ts": {
+      "maxDuration": 10
+    }
+  }
+}
